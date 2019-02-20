@@ -1,0 +1,22 @@
+{
+    "home.header.msg.welcome": "Bienvenid@, ",
+    "home.header.msg.logout": "Cerrar sesión",
+    "home.header.msg.settings": "Ajustes",
+
+    "home.menu.label.myaccount": "Mi cuenta",
+    "home.menu.label.main": "Principal",
+    "home.menu.label.pending.activations": "Activaciones pendientes",
+    "home.menu.label.historical.activations": "Histórico de activaciones",
+
+    "home.menu.label.profile": "Mi perfil",
+    "home.menu.label.logout": "Cerrar sesión",
+
+    "home.footer.label.footer": "Pie",
+    "home.footer.label.copyright": "Copyright © ",
+    "home.footer.label.business.name": ", Radiomovil Dipsa, S.A. de C.V. Todos los Derechos Reservados.",
+    "home.footer.label.support": "Soporte",
+    "home.footer.label.docs": "Documentación",
+
+    "activations.pending.title": "Activaciones pendientes",
+    "activations.historical.title": "Histórico"
+}
